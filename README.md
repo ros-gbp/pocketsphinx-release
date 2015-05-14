@@ -1,3 +1,24 @@
+## pocketsphinx (jade) - 0.4.0-0
+
+The packages in the `pocketsphinx` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade pocketsphinx` on `Thu, 14 May 2015 05:35:43 -0000`
+
+The `pocketsphinx` package was released.
+
+Version of package(s) in repository `pocketsphinx`:
+- upstream repository: https://github.com/mikeferguson/pocketsphinx.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## pocketsphinx (indigo) - 0.4.0-0
 
 The packages in the `pocketsphinx` repository were released into the `indigo` distro by running `/usr/bin/bloom-release pocketsphinx -t indigo -r indigo --new-track` on `Tue, 03 Jun 2014 08:37:42 -0000`
